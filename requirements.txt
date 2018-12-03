@@ -1,0 +1,12 @@
+pymongo
+tqdm
+pandas
+pymysql
+sqlalchemy
+mysqlclient
+matplotlib
+plotly
+cufflinks
+bs4
+aiomysql
+mysql-connector
